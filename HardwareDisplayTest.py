@@ -42,3 +42,4 @@ if __name__ == '__main__':
     # Check if the fetched version is greater than the current version
     if first_line_as_float is not None and first_line_as_float > version:
         print('Error, outdated software version')
+#HIPSSN-q791288254S
